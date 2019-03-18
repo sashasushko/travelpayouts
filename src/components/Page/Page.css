@@ -1,0 +1,14 @@
+.page {
+  padding: 40px 32px 65px;
+}
+
+.page-title {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 39px;
+  line-height: 47px;
+  color: #262626;
+}
